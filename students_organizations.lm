@@ -1,0 +1,218 @@
+<body>
+    <space height="56" />
+    <row>
+        <space height="16" />
+        <action type="close">
+            <icon type="arrowback" />
+        </action>
+        <space />
+        <header>Студенческие объединения</header>
+    </row>
+    <space height="16" />
+    <hr />
+
+    <column scroll="true">
+        <space height="8" />
+
+        <column padding="8">
+            <rich>
+                <f size="20">Студенческие объединения МАИ</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="18">---</f>
+                </c>
+            </rich>
+            <space />
+        </column>
+
+        <card>
+            <rich>
+                <f size="18">Студенческий строительный отряд МАИ "Взлет"</f>
+            </rich>
+            <space />
+            <space />
+
+            <button href="tel: +7 919 192-42-07">
+                <icon type="phone" />
+                +7 919 192-42-07
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Студенческий пожарно-спасательный отряд</f>
+            </rich>
+            <space />
+            <space />
+
+            <button href="tel: +7 950 539-01-30">
+                <icon type="phone" />
+                +7 950 539-01-30
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Профсоюзный комитет студентов и аспирантов МАИ</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="14">Волоколамское шоссе, дом 4, корпус 26 (ГУК зона "В"), комната 301</f>
+                </c>
+            </rich>
+            <space />
+
+            <button href="tel: +7 499 158-42-40">
+                <icon type="phone" />
+                +7 499 158-42-40
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Авиационный клуб МАИ</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="14">улица Панфилова, дом 20, корпус 3</f>
+                </c>
+            </rich>
+            <space />
+
+            <button href="tel: +7 499 960-18-03">
+                <icon type="phone" />
+                +7 499 960-18-03
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Авиамодельный клуб МАИ</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="14">Волоколамское шоссе, дом 4, корпус 4, 1 этаж</f>
+                </c>
+            </rich>
+            <space />
+
+            <button href="tel: +7 499 158-49-05">
+                <icon type="phone" />
+                +7 499 158-49-05
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Студенческий парламентский клуб</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="14">Волоколамское шоссе, дом 4, корпус 20, ГУК зона "А", комната 519</f>
+                </c>
+            </rich>
+            <space />
+
+            <button href="tel: +7 499 158-49-50">
+                <icon type="phone" />
+                +7 499 158-49-50
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Волонтерский центр</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="14">Волоколамское шоссе, дом 4, корпус 20, ГУК зона "А", комната 219</f>
+                </c>
+            </rich>
+            <space />
+
+            <button href="tel: +7 499 158-47-20">
+                <icon type="phone" />
+                +7 499 158-47-20
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Спортивный клуб МАИ</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="14">улица Константина Царева, дом 12а</f>
+                </c>
+            </rich>
+            <space />
+
+            <button href="tel: +7 499 158-57-58">
+                <icon type="phone" />
+                +7 499 158-57-58
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Клуб "Дебаты" МАИ</f>
+            </rich>
+            <space />
+            <space />
+
+            <button href="tel: +7 977 805-53-66">
+                <icon type="phone" />
+                +7 977 805-53-66
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Клуб веселых и находчивых</f>
+            </rich>
+            <space />
+            <space />
+
+            <button href="tel: +7 965 292-25-82">
+                <icon type="phone" />
+                +7 965 292-25-82
+            </button>
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Клуб любителей программирования "Lambda IT"</f>
+            </rich>
+            <space />
+
+            <rich>
+                <c color="secondary70">
+                    <f size="14">улица Дубосековская, дом 9, корпус 1, комната 101</f>
+                </c>
+            </rich>
+            <space />
+
+            <button href="tel: +7 495 055-28-96">
+                <icon type="phone" />
+                +7 495 055-28-96
+            </button>
+        </card>
+
+        <space height="42" />
+    </column>
+</body>

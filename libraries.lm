@@ -1,0 +1,345 @@
+<body>
+    <space height="56" />
+    <row>
+        <space height="16" />
+        <action type="close">
+            <icon type="arrowback" />
+        </action>
+        <space />
+        <header>Библиотеки МАИ</header>
+    </row>
+    <space height="16" />
+    <hr />
+
+    <column scroll="true">
+        <space height="8" />
+
+        <column padding="8">
+            <rich>
+                <f size="20">Берниковская наб., д. 14</f>
+            </rich>
+            <space />
+        </column>
+
+        <card>
+            <rich>
+                <f size="18">Абонемент художественной литературы</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">422</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел комплектования</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">424</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Научно-библиографический отдел</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">420</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел учета и технической обработки книг</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">424</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Абонемент технической литературы</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">423</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Читальный зал</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">420</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел научной обработки книг и организации каталогов</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">424</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <space height="16" />
+
+        <column padding="8">
+            <rich>
+                <f size="20">Филиал библиотеки: ул. Фестивальная, д. 4, корп. 3</f>
+            </rich>
+            <space />
+        </column>
+
+        <card>
+            <rich>
+                <f size="18">Абонемент технической литературы</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">---</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Читальный зал</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">---</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <space height="16" />
+
+        <column padding="8">
+            <rich>
+                <f size="20">Научно-техническая библиотека</f>
+            </rich>
+            <space />
+        </column>
+
+        <card>
+            <rich>
+                <f size="18">Зал читательских каталогов</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">7-218</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел нормативно-технической документации</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">7-327</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел обслуживания старших курсов (3 - 6 курсы)</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">ГУК В-300</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Читальный зал гуманитарных наук</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">ГУК В-601</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Читальный зал периодичеких изданий</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">7-219</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Читальный зал учебной литературы</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">ГУК В-501</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел научной литературы</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">7-326</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел художественной литературы</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">7-121</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел научно-технической информации и биографи</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">7-223</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Отдел обслуживания младших курсов (1 - 2 курсы)</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">ГУК В-202</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <card>
+            <rich>
+                <f size="18">Читальный зал научной литературы</f>
+            </rich>
+            <space />
+            <space />
+
+            <rich>
+                <c color="primary">
+                    <f size="18">7-227</f>
+                </c>
+            </rich>
+            <space />
+        </card>
+
+        <space height="42"/>
+
+    </column>
+</body>
